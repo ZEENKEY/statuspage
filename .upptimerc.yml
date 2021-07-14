@@ -37,7 +37,7 @@ status-website:
   #baseUrl: /statuspage
   cname: zeenkeystatus.ga
   logoUrl: https://raw.githubusercontent.com/ZEENKEY/statuspage/5f5dce9ccf2dd95b6cd892caa2150e44466f0879/assets/upptime-icon.svg
-  name: Status
+  name: ZEENKEY Status
   introTitle: "**Check status** for all ZEENKEY services"
   introMessage: Check the status of the pages and if they have any incidents.
   favicon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png
