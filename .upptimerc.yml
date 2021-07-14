@@ -11,10 +11,10 @@ sites:
     icon: https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1
   - name: ZEENKEY Games
     url: https://play.zeenkey.com
-    icon: https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1
+    icon: https://play.zeenkey.com/favicon.ico
   - name: ZEENKEY Merch (Official Store)
     url: https://shop.zeenkey.com
-    icon: https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1
+    icon: https://http2.mlstatic.com/frontend-assets/ui-navigation/5.15.0/mercadoshops/favicon.svg
   - name: ZEENKEY CDN
     url: https://zeenkeycdn.ga
     icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
