@@ -36,7 +36,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /statuspage
   cname: zeenkeystatus.ga
-  logoUrl: https://raw.githubusercontent.com/ZEENKEY/statuspage/5f5dce9ccf2dd95b6cd892caa2150e44466f0879/assets/upptime-icon.svg
+  logoUrl: https://zeenkeycdn.ga/v1/Branding/ZEENKEY/ZEENKEY%20natura%20svg/sunflower.svg
   name: ZEENKEY Status
   introTitle: "**Check status** for all ZEENKEY services"
   introMessage: Check the status of the pages and if they have any incidents.
