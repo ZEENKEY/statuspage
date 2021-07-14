@@ -1,31 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ZEENKEY # Your GitHub organization or username, where this repository lives
+repo: statuspage # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Official Website
+    url: https://www.zeenkey.com
+    icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
+  - name: ZEENKEY BLOG
+    url: https://blog.zeenkey.com
+    icon: https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1
+  - name: ZEENKEY Games
+    url: https://play.zeenkey.com
+    icon: https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1
+  - name: ZEENKEY Merch (Official Store)
+    url: https://shop.zeenkey.com
+    icon: https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1
+  - name: ZEENKEY CDN
+    url: https://zeenkeycdn.ga
+    icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
+  - name: Server 1
+    url: https://www.zeenkey.com
+    icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
+  - name: Server 2
+    url: https://cranky-feistel.74-208-251-25.plesk.page/
+    icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
+  - name: Status server
+    url: https://zeenkeystatus.ga
+    icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
+
+i18n:
+  footer: © 2021 ZEENKEY, All rights reserved.
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #baseUrl: /statuspage
+  cname: zeenkeystatus.ga
+  logoUrl: https://raw.githubusercontent.com/ZEENKEY/statuspage/5f5dce9ccf2dd95b6cd892caa2150e44466f0879/assets/upptime-icon.svg
+  name: Status
+  introTitle: "**Check status** for all ZEENKEY services"
+  introMessage: Check the status of the pages and if they have any incidents.
+  favicon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: ZEENKEY
+      href: https://www.zeenkey.com
+    - title: Blog
+      href: https://blog.zeenkey.com
+    - title: Merch
+      href: https://shop.zeenkey.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
