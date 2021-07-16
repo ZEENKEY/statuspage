@@ -112,9 +112,9 @@
     "url": "https://cranky-feistel.74-208-251-25.plesk.page/",
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "server-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 761,
     "timeMonth": 761,
     "timeYear": 761,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-16": 0
+    }
   },
   {
     "name": "Status server",
