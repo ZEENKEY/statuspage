@@ -59,18 +59,18 @@
     "icon": "https://http2.mlstatic.com/frontend-assets/ui-navigation/5.15.0/mercadoshops/favicon.svg",
     "slug": "zeenkey-merch-official-store",
     "status": "down",
-    "uptime": "94.10%",
-    "uptimeDay": "71.83%",
-    "uptimeWeek": "94.10%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "94.10%",
+    "uptime": "93.78%",
+    "uptimeDay": "70.19%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "93.78%",
     "time": 354,
     "timeDay": 360,
     "timeWeek": 354,
     "timeMonth": 354,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2021-07-18": 407
+      "2021-07-18": 430
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "server-2",
     "status": "down",
-    "uptime": "45.34%",
+    "uptime": "45.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "45.34%",
-    "uptimeMonth": "45.34%",
-    "uptimeYear": "45.34%",
+    "uptimeWeek": "45.18%",
+    "uptimeMonth": "45.18%",
+    "uptimeYear": "45.18%",
     "time": 761,
     "timeDay": 0,
     "timeWeek": 761,
     "timeMonth": 761,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2021-07-18": 1319,
+      "2021-07-18": 1343,
       "2021-07-17": 1440,
       "2021-07-16": 1000
     }
