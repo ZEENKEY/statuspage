@@ -13,16 +13,13 @@ sites:
     url: https://play.zeenkey.com
     icon: https://play.zeenkey.com/favicon.ico
   - name: ZEENKEY Merch (Official Store)
-    url: https://shop.zeenkey.com
+    url: https://www.store.zeenkey.com
     icon: https://http2.mlstatic.com/frontend-assets/ui-navigation/5.15.0/mercadoshops/favicon.svg
   - name: ZEENKEY CDN
     url: https://zeenkeycdn.ga
     icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
   - name: Server 1
     url: https://www.zeenkey.com
-    icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
-  - name: Server 2
-    url: https://cranky-feistel.74-208-251-25.plesk.page/
     icon: https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1
   - name: Status server
     url: https://zeenkeystatus.ga
