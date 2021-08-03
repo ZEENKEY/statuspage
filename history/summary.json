@@ -40,19 +40,19 @@
     "url": "https://play.zeenkey.com",
     "icon": "https://play.zeenkey.com/favicon.ico",
     "slug": "zeenkey-games",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 163,
-    "timeDay": 179,
+    "timeDay": 175,
     "timeWeek": 173,
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2021-08-03": 2
+      "2021-08-03": 30
     }
   },
   {
