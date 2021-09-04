@@ -99,19 +99,19 @@
     "url": "https://zeenkeystatus.ga",
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "status-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 288,
-    "timeWeek": 624,
-    "timeMonth": 502,
-    "timeYear": 570,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
+    "time": 722,
+    "timeDay": 4838,
+    "timeWeek": 1719,
+    "timeMonth": 780,
+    "timeYear": 722,
     "dailyMinutesDown": {
-      "2021-09-04": 0
+      "2021-09-04": 26
     }
   }
 ]
