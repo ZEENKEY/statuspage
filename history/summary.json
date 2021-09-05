@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1021,
-    "timeDay": 297,
-    "timeWeek": 268,
-    "timeMonth": 270,
-    "timeYear": 1021,
+    "time": 1008,
+    "timeDay": 271,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 1008,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1796,
-    "timeDay": 1916,
-    "timeWeek": 1840,
-    "timeMonth": 1834,
-    "timeYear": 1796,
+    "time": 1808,
+    "timeDay": 2477,
+    "timeWeek": 1892,
+    "timeMonth": 1848,
+    "timeYear": 1808,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 167,
-    "timeDay": 171,
+    "timeDay": 165,
     "timeWeek": 177,
-    "timeMonth": 167,
+    "timeMonth": 166,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2021-09-01": 23,
@@ -67,11 +67,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 608,
+    "time": 605,
     "timeDay": 402,
-    "timeWeek": 666,
+    "timeWeek": 667,
     "timeMonth": 614,
-    "timeYear": 608,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2021-09-01": 17
     }
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 139,
-    "timeWeek": 132,
-    "timeMonth": 137,
-    "timeYear": 661,
+    "time": 652,
+    "timeDay": 140,
+    "timeWeek": 133,
+    "timeMonth": 138,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -105,11 +105,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 722,
-    "timeDay": 4838,
-    "timeWeek": 1719,
-    "timeMonth": 780,
-    "timeYear": 722,
+    "time": 716,
+    "timeDay": 4868,
+    "timeWeek": 1726,
+    "timeMonth": 782,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2021-09-04": 26
     }
