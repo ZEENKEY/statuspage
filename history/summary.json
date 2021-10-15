@@ -4,19 +4,19 @@
     "url": "https://www.zeenkey.com",
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "official-website",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.97%",
-    "time": 1886,
-    "timeDay": 9001,
-    "timeWeek": 6078,
-    "timeMonth": 3858,
-    "timeYear": 1886,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
+    "time": 2022,
+    "timeDay": 10140,
+    "timeWeek": 6891,
+    "timeMonth": 4200,
+    "timeYear": 2022,
     "dailyMinutesDown": {
-      "2021-10-15": 39
+      "2021-10-15": 52
     }
   },
   {
