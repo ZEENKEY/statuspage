@@ -4,17 +4,17 @@
     "url": "https://www.zeenkey.com",
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "official-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "92.92%",
+    "uptimeDay": "82.20%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "99.29%",
-    "time": 1534,
+    "time": 1532,
     "timeDay": 256,
-    "timeWeek": 415,
+    "timeWeek": 418,
     "timeMonth": 338,
-    "timeYear": 1534,
+    "timeYear": 1532,
     "dailyMinutesDown": {
       "2022-05-11": 257,
       "2022-05-10": 86,
@@ -41,7 +41,7 @@
       "2022-04-19": 134,
       "2022-04-18": 91,
       "2022-04-17": 65,
-      "2022-04-16": 94
+      "2022-04-16": 60
     }
   },
   {
@@ -49,17 +49,17 @@
     "url": "https://blog.zeenkey.com",
     "icon": "https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1",
     "slug": "zeenkey-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "90.32%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "82.19%",
+    "uptimeWeek": "90.49%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "99.29%",
-    "time": 1554,
-    "timeDay": 962,
-    "timeWeek": 1054,
+    "time": 1552,
+    "timeDay": 909,
+    "timeWeek": 1044,
     "timeMonth": 1034,
-    "timeYear": 1554,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2022-05-11": 257,
       "2022-05-10": 86,
@@ -86,8 +86,7 @@
       "2022-04-19": 134,
       "2022-04-18": 91,
       "2022-04-17": 65,
-      "2022-04-16": 94,
-      "2022-04-15": 21
+      "2022-04-16": 94
     }
   },
   {
@@ -118,17 +117,17 @@
     "url": "https://zeenkeycdn.ga",
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "zeenkey-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "82.22%",
-    "uptimeWeek": "90.20%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "82.20%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "99.29%",
-    "time": 712,
-    "timeDay": 446,
-    "timeWeek": 543,
+    "time": 711,
+    "timeDay": 442,
+    "timeWeek": 538,
     "timeMonth": 506,
-    "timeYear": 712,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2022-05-11": 257,
       "2022-05-10": 114,
@@ -156,7 +155,7 @@
       "2022-04-18": 91,
       "2022-04-17": 65,
       "2022-04-16": 95,
-      "2022-04-15": 66
+      "2022-04-15": 41
     }
   },
   {
@@ -164,17 +163,17 @@
     "url": "https://www.zeenkey.com",
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "server-1",
-    "status": "up",
-    "uptime": "99.27%",
-    "uptimeDay": "83.74%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "92.80%",
-    "uptimeYear": "99.27%",
-    "time": 969,
-    "timeDay": 123,
+    "status": "down",
+    "uptime": "99.28%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "90.90%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "99.28%",
+    "time": 967,
+    "timeDay": 122,
     "timeWeek": 127,
     "timeMonth": 123,
-    "timeYear": 969,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2022-05-11": 235,
       "2022-05-10": 114,
@@ -201,8 +200,7 @@
       "2022-04-18": 91,
       "2022-04-17": 65,
       "2022-04-16": 95,
-      "2022-04-15": 148,
-      "2022-04-14": 11
+      "2022-04-15": 119
     }
   },
   {
