@@ -6,17 +6,17 @@
     "slug": "official-website",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "86.32%",
-    "uptimeWeek": "87.86%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "87.22%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.39%",
-    "time": 1057,
-    "timeDay": 265,
+    "time": 1056,
+    "timeDay": 267,
     "timeWeek": 263,
     "timeMonth": 279,
-    "timeYear": 1057,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-07-05": 198,
+      "2022-07-05": 185,
       "2022-07-04": 61,
       "2022-07-03": 254,
       "2022-07-02": 95,
@@ -41,7 +41,7 @@
       "2022-06-13": 51,
       "2022-06-12": 69,
       "2022-06-11": 41,
-      "2022-06-10": 17
+      "2022-06-10": 37
     }
   },
   {
@@ -51,17 +51,17 @@
     "slug": "zeenkey-blog",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "88.15%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "87.21%",
+    "uptimeWeek": "88.28%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.39%",
     "time": 1362,
-    "timeDay": 1008,
-    "timeWeek": 1044,
+    "timeDay": 1014,
+    "timeWeek": 1038,
     "timeMonth": 1034,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2022-07-05": 198,
+      "2022-07-05": 185,
       "2022-07-04": 61,
       "2022-07-03": 254,
       "2022-07-02": 52,
@@ -87,7 +87,8 @@
       "2022-06-12": 69,
       "2022-06-11": 41,
       "2022-06-10": 21,
-      "2022-06-09": 31
+      "2022-06-09": 31,
+      "2022-06-08": 17
     }
   },
   {
@@ -102,9 +103,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "96.57%",
     "time": 181,
-    "timeDay": 155,
-    "timeWeek": 158,
-    "timeMonth": 173,
+    "timeDay": 250,
+    "timeWeek": 161,
+    "timeMonth": 174,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2022-06-30": 129,
@@ -136,17 +137,17 @@
     "slug": "zeenkey-cdn",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "86.31%",
-    "uptimeWeek": "88.99%",
-    "uptimeMonth": "92.96%",
+    "uptimeDay": "87.21%",
+    "uptimeWeek": "89.11%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.40%",
     "time": 686,
-    "timeDay": 376,
+    "timeDay": 374,
     "timeWeek": 407,
     "timeMonth": 655,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-07-05": 198,
+      "2022-07-05": 185,
       "2022-07-04": 61,
       "2022-07-03": 233,
       "2022-07-02": 52,
@@ -173,7 +174,7 @@
       "2022-06-11": 41,
       "2022-06-10": 21,
       "2022-06-09": 31,
-      "2022-06-08": 46
+      "2022-06-08": 66
     }
   },
   {
@@ -183,17 +184,17 @@
     "slug": "server-1",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "86.32%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "92.95%",
+    "uptimeDay": "87.21%",
+    "uptimeWeek": "89.09%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.40%",
-    "time": 647,
-    "timeDay": 124,
+    "time": 646,
+    "timeDay": 125,
     "timeWeek": 136,
     "timeMonth": 137,
-    "timeYear": 647,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-07-05": 197,
+      "2022-07-05": 184,
       "2022-07-04": 61,
       "2022-07-03": 234,
       "2022-07-02": 52,
@@ -220,7 +221,7 @@
       "2022-06-11": 41,
       "2022-06-10": 20,
       "2022-06-09": 31,
-      "2022-06-08": 46
+      "2022-06-08": 66
     }
   },
   {
@@ -234,11 +235,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.95%",
-    "time": 798,
-    "timeDay": 244,
-    "timeWeek": 276,
-    "timeMonth": 585,
-    "timeYear": 798,
+    "time": 797,
+    "timeDay": 315,
+    "timeWeek": 277,
+    "timeMonth": 582,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2022-03-14": 96,
       "2022-03-13": 423,
