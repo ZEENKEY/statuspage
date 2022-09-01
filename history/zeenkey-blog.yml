@@ -1,7 +1,7 @@
 url: https://blog.zeenkey.com
-status: up
-code: 200
-responseTime: 1715
-lastUpdated: 2022-09-01T11:42:38.532Z
+status: down
+code: 500
+responseTime: 248
+lastUpdated: 2022-09-01T15:24:10.323Z
 startTime: Wed Jul 14 2021 03:20:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
