@@ -5,7 +5,7 @@
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "official-website",
     "status": "down",
-    "uptime": "30.54%",
+    "uptime": "30.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 208,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2026-01-13": 113,
+      "2026-01-14": 120,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -338,8 +339,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -348,7 +348,7 @@
     "icon": "https://i0.wp.com/blog.zeenkey.com/wp-content/uploads/2021/05/84c6921fe8ad81b9d0138289df482fc3.png?fit=30%2C32&ssl=1",
     "slug": "zeenkey-blog",
     "status": "down",
-    "uptime": "30.54%",
+    "uptime": "30.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -357,9 +357,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 233,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-01-13": 113,
+      "2026-01-14": 120,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -682,8 +683,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -692,18 +692,19 @@
     "icon": "https://play.zeenkey.com/favicon.ico",
     "slug": "zeenkey-games",
     "status": "down",
-    "uptime": "29.96%",
+    "uptime": "29.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "11.50%",
-    "time": 182,
+    "time": 181,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2026-01-13": 113,
+      "2026-01-14": 120,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1025,8 +1026,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -1035,7 +1035,7 @@
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "zeenkey-cdn",
     "status": "down",
-    "uptime": "21.96%",
+    "uptime": "21.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1046,7 +1046,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 113,
+      "2026-01-14": 121,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1409,8 +1410,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -1419,7 +1419,7 @@
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "server-1",
     "status": "down",
-    "uptime": "30.55%",
+    "uptime": "30.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1430,7 +1430,8 @@
     "timeMonth": 0,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2026-01-13": 113,
+      "2026-01-14": 121,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -1752,8 +1753,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -1762,7 +1762,7 @@
     "icon": "https://i2.wp.com/www.zeenkey.com/wp-content/uploads/sites/2/2021/07/cropped-icon.png?fit=32%2C32&ssl=1",
     "slug": "status-server",
     "status": "down",
-    "uptime": "21.76%",
+    "uptime": "21.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1773,7 +1773,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 113,
+      "2026-01-14": 121,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -2136,8 +2137,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   }
 ]
